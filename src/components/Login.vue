@@ -81,7 +81,7 @@ a {
 
 p:nth-last-child(1) {
   text-align: center;
-  position: fixed;
+  position: absolute;
   bottom: 30px;
   width: 100vw;
   margin: 0;
